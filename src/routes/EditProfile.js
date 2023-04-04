@@ -1,0 +1,1 @@
+export const EditProfile = () => <span>EditProfile</span>;
